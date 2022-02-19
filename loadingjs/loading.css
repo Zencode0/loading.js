@@ -1,0 +1,19 @@
+/*You Can Configure Style in That File*/
+
+
+.page{
+    display: none;
+}
+
+.loader-wrapper{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0E0E0E;
+    display: flex;
+    z-index: 999;
+    color: white;
+    text-align: center;
+}
